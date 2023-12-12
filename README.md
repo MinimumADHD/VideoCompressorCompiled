@@ -1,5 +1,7 @@
 # PREMISE
 
+![FFMPEG](https://img.shields.io/badge/ffmpeg_required-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
 - This is some ```C++``` code made with the help of ChatGPT to compress any sort of video you give to it into wanted
   format and needed maximum MB.
 - Used software
