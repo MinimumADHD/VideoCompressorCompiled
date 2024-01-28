@@ -32,12 +32,14 @@
 
 </details>
 
+<details>
 <summary>Windows (UPDATED)</summary>
 
 * Download the VideoCompressorCPP.exe from releases tab
 * Put it somewhere in your PC. (`C:\Users\%USERPROFILE%\Video` or `C:\Users\%USERPROFILE%\OneDrive\Video` is suggested.)
-* Install FFMPEG via terminal using Winget ```winget install Gyan.FFmpeg``` or ```choco install ffmpeg``` (Only use Choco if Chocolatey is already installed and setup)
-* 
+* Install FFMPEG via terminal using Winget
+```console winget install Gyan.FFmpeg``` or ```console choco install ffmpeg ``` (Only use Choco if Chocolatey is already installed and setup)
+
 </details>
 
 <details>
